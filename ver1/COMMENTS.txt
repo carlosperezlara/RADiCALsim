@@ -1,0 +1,5 @@
+This is the first version of a full RADiCAL module.
+It features 28 Layers of W and 28 layers of LYSO.
+The dimmensions were taken from my slides on IEEE'22.
+The phyics processes enabled allow for energy depoistion in LYSO material.
+I.e. no optical light transport nor capilary gemetry is in.
